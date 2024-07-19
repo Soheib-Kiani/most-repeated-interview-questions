@@ -17,7 +17,7 @@
 
 ## Coding Challenge
 
-## Live Cofing Challenge
+## Live Coding Challenge
 
 
 It is mainly focused on Front-end and Back-end
